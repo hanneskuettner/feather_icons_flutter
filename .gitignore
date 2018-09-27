@@ -10,4 +10,3 @@ packages
 pubspec.lock
 .flutter-plugins
 tool/*.py
-tool/*.json
