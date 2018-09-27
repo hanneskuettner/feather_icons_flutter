@@ -1,0 +1,22 @@
+name: feather_icons_flutter
+description: The Feather Icons pack available as Flutter Icons
+author: Hannes Küttner <hannes@hanneskuettner.com>
+homepage: https://github.com/hanneskuettner/feather_icons_flutter
+version: 4.7.3
+
+environment:
+  sdk: ">=2.0.0-dev.28.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  recase: "^2.0.0+1"
+
+flutter:
+  fonts:
+    - family: FeatherIcons
+      fonts:
+        - asset: lib/fonts/feathericons.ttf
+          weight: 400

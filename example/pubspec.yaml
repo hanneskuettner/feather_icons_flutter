@@ -1,0 +1,12 @@
+name: feather_icons_flutter_example
+description: The Father Icons Flutter Gallery
+
+dependencies:
+  flutter:
+    sdk: flutter
+  feather_icons_flutter:
+    path: ../
+
+flutter:
+  uses-material-design: true
+
