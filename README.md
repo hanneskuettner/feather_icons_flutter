@@ -1,4 +1,4 @@
-# font_awesome_flutter
+# feather_icons_flutter
 
 The [Feather](https://feathericons.com/) Icon pack created by [Cole Bemis](https://github.com/colebemis) available as set of Flutter Icons.
 
@@ -9,7 +9,7 @@ Based on Feather v4.7.3
 In the `dependencies:` section of your `pubspec.yaml`, add the following line:
 
 ```yaml
-  feather_icons_flutter: >=4.7.3
+  feather_icons_flutter: >=4.7.4
 ```
 
 ## Usage
