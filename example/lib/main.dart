@@ -99,7 +99,7 @@ class FeatherIconsGalleryHomeState extends State<FeatherIconsGalleryHome> {
         new IconButton(
             icon: new Icon(FeatherIcons.search),
             onPressed: () {
-              ModalRoute.of(context).addLocalHistoryEntry(
+              ModalRoute.of(context)!.addLocalHistoryEntry(
                 new LocalHistoryEntry(
                   onRemove: () {
                     setState(() {
