@@ -5,7 +5,7 @@ homepage: https://github.com/hanneskuettner/feather_icons_flutter
 version: 4.7.4
 
 environment:
-  sdk: ">=2.0.0-dev.28.0 <3.0.0"
+  sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
   flutter:
